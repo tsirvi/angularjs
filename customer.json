@@ -1,1 +1,16 @@
-
+{
+    "customerInformation":[
+      {"id":1,"name":"trishna","address":"#15 ,food street,kormangala","phone":9989098789,"email":"trishna@gmail.com"},
+      {"id":2,"name":"sweta", "address":"#16 ,M street,Mangala","phone":9989899878,"email":"sweta@gmail.com"},
+      {"id":3,"name":"Meghana","address":"#1 ,MG street,Jangala","phone":7889098909,"email":"meghana@gmail.com"},
+      {"id":4,"name":"nitya", "address":"#1/4 ,hall street,hoskote","phone":8890987890,"email":"nitya@gmail.com"},
+      {"id":5,"name":"manisha", "address":"#1/5 ,NG street,Adugodi","phone":9989000909,"email":"manisha@gmail.com"},
+      {"id":6,"name":"karunya", "address":"#0/5 ,JP street,Sagar","phone":9989077789,"email":"karunya@gmail.com"},
+      {"id":7,"name":"latha", "address":"#5 ,NM street,SR Nagar","phone":8890989878,"email":"latha@gmail.com"},
+      {"id":7,"name":"rachel", "address":"#5 ,NM street,SR Nagar","phone":8887678789,"email":"rachel@gmail.com"},
+      {"id":8,"name":"mamta", "address":"#115 ,J street,kormangala","phone":8889095546,"email":"mamta@gmail.com"},
+      {"id":9,"name":"leela","address":"#15/3 ,K street,kormangala","phone":6778987890,"email":"leela@gmail.com"},
+      {"id":10,"name":"mana", "address":"#15/1 ,L street,kormangala","phone":9999780000,"email":"mana@gmail.com"}
+      
+    ]
+}
